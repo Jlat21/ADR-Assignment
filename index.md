@@ -54,3 +54,5 @@ Consequences:
 Opting for React Native means developers skilled in both iOS and Android native development might not be fully utilized. However, the shared codebase will likely reduce development time and ensure consistency across platforms. 
 Choosing SQLite and PostgreSQL mandates regular data syncing logic to ensure data consistency. Using Cloudinary incurs costs based on usage, but offers a hassle-free image management solution. 
 The chosen analytics and push notification solutions might introduce additional costs, but are essential for the app's success and user engagement.
+
+Link to Github https://github.com/Jlat21/ADR-Assignment/blob/main/index.md
